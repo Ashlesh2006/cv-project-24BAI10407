@@ -1,5 +1,5 @@
 cat << 'EOF' > README.md
-# image-manipulation-analysis-24BAI10320
+# image-manipulation-analysis-24BAI10407
 
 A dual-stream computer vision forensic pipeline combining Spatial Rich Model (SRM) filtering and Error Level Analysis (ELA) to detect and localize digital image tampering.
 
